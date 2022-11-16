@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseCrashlyticsTest</string>
+    <string name="start_crash">Start crash</string>
+</resources>
